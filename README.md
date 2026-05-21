@@ -20,3 +20,5 @@ Projeto desenvolvido para análise de dados de exportação utilizando Python e 
 
 ## Resultados
 Dashboard interativo para análise de exportações por município, produto e período.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/26409473-8671-4917-99b6-d84843ab091a" />
+
